@@ -36,3 +36,10 @@ docker-compose up --build
 Rodar o projeto via jupyter notebook:
 No arquivo etl.ipynb, consta todo o etl, verifique os caminhos e rode.
 
+
+IMPORTANTE
+
+Os arquivos, clientes.json, vendas.csv e produtos.csv precisam ser baixados no 
+link: https://drive.google.com/drive/u/0/folders/1U79YSFP08K8PoRRN_onQI3ELaXvGTRyq ou
+faça coloque as suas tabelas, pois são arquivos grandes e não pode subir no github
+
