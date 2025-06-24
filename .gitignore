@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Spark temporary files
+.metastore_db/
+.derby/
+spark-warehouse/
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+*.swp
+
+# Logs
+*.log
+
+# Arquivos de dados locais (ajuste conforme necessário)
+*.csv
+*.json
+*.xlsx
+*.parquet
+
+# Credenciais e configs sensíveis (ex: arquivos de config locais)
+.env
+*.env
+config.ini
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Arquivos do JetBrains (PyCharm)
+.idea/
+
+# Arquivos de driver JDBC
+*.jar
+
+# Arquivos temporários ou backups
+*.bak
+*.tmp
+
+# Arquivos de execução
+nohup.out
