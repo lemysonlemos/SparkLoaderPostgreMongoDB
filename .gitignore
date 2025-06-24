@@ -26,12 +26,6 @@ spark-warehouse/
 # Logs
 *.log
 
-# Arquivos de dados locais (ajuste conforme necessário)
-*.csv
-*.json
-*.xlsx
-*.parquet
-
 # Credenciais e configs sensíveis (ex: arquivos de config locais)
 .env
 *.env
