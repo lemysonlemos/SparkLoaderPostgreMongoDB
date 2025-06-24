@@ -41,5 +41,6 @@ IMPORTANTE
 
 Os arquivos, clientes.json, vendas.csv e produtos.csv precisam ser baixados no 
 link: https://drive.google.com/drive/u/0/folders/1U79YSFP08K8PoRRN_onQI3ELaXvGTRyq ou
-faça coloque as suas tabelas, pois são arquivos grandes e não pode subir no github
+faça coloque as suas tabelas, pois são arquivos grandes e não pode subir no github.
+Os arquivos tem que ser colocados na raiz do projeto.
 
